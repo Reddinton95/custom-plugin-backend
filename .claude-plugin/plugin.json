@@ -1,0 +1,46 @@
+{
+  "name": "custom-plugin-backend",
+  "description": "Comprehensive backend development learning system with 7 specialized agents covering programming fundamentals, databases, APIs, architecture, performance, DevOps, and security",
+  "version": "1.0.0",
+  "author": {
+    "name": "Backend Development Learning Team"
+  },
+  "agents": [
+    "01-programming-fundamentals",
+    "02-database-management",
+    "03-api-development",
+    "04-architecture-patterns",
+    "05-caching-performance",
+    "06-devops-infrastructure",
+    "07-testing-security"
+  ],
+  "commands": [
+    "learn",
+    "browse-agent",
+    "assess",
+    "projects"
+  ],
+  "skills": [
+    "languages",
+    "databases",
+    "api-design",
+    "architecture",
+    "performance",
+    "devops",
+    "security"
+  ],
+  "keywords": [
+    "backend",
+    "learning",
+    "agent",
+    "skill",
+    "programming",
+    "databases",
+    "api",
+    "microservices",
+    "devops",
+    "security"
+  ],
+  "repository": "https://github.com/pluginagentmarketplace/custum-plugin-backend",
+  "license": "MIT"
+}
